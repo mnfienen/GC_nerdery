@@ -1,0 +1,16 @@
+name: hydro_example
+channels:
+  - defaults
+dependencies:
+  - jupyter
+  - ipython
+  - pandas
+  - numpy
+  - seaborn
+  - matplotlib
+  - fsspec
+  - python=3.6.10
+  - requests
+  - s3fs
+  - scipy
+  - requests
